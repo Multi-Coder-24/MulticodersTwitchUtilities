@@ -11,4 +11,4 @@ One of the new key features is with how your Twitch Auth Token get's used, The a
 * Giveaway feature
 * Moderation tool for Poll and Giveaway features
 
-See [Moderation] (./Moderation.md)
+See [Moderation] (https://multi-coder-24.github.io/MulticodersTwitchUtilities/Moderation)
